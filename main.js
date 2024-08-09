@@ -53,7 +53,7 @@ async function downloadSessionData() {
         console.error('🛠️⚙️Please add your session to SESSION_ID env ‼️');
         return false;
     }
-    const sessdata = config.SESSION_ID.split("Red_Fox-MD:/")[1];
+    const sessdata = config.SESSION_ID.split("ZR:/")[1];
     const url = `https://pastebin.com/raw/${sessdata}`;
     try {
         const response = await axios.get(url);
@@ -77,7 +77,7 @@ async function start() {
             version,
             logger: pino({ level: 'silent' }),
             printQRInTerminal: useQR,
-            browser: ["Red--MD", "safari", "3.3"],
+            browser: ["ZR", "safari", "3.3"],
             auth: state,
             getMessage: async (key) => {
                 if (store) {
