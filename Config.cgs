@@ -1,0 +1,39 @@
+VPS = true
+
+SESSION_ID = LuciZR
+
+DATABASE_URL = postgresql://zr:1CRWb5dBxrUitmfiChPS2GUP7gkqlWh9@dpg-cr3t6njv2p9s73ci73f0-a.oregon-postgres.render.com/zr_jqgc
+
+ANTIWORDS = sex,pron,panu,xxx,xnxx
+
+ANTI_DELETE = p
+
+AUTO_STATUS_VIEW = false
+
+BING_COOKIE = _C_Auth=; ipv6=hit=1721430070187&t=6; GI_FRE_COOKIE=gi_prompt=2&gi_fre=2; MUID=193F318A379B63E629572515364E62B6; SRCHD=AF=NOFORM; SRCHUID=V=2&GUID=6A0DA0748274400AA4AF7138566EFBCA&dmnchg=1; _SS=SID=01D44CF6445D6A203E0F583745B86B38; _clck=f5mxos%7C2%7Cfnl%7C0%7C1661; SRCHUSR=DOB=20240627&POEX=W; ANON=A=44C3814B8160FA85B09C878EFFFFFFFF&E=1e05&W=1; NAP=V=1.9&E=1dab&C=go2hIgadRMfTNjG_3GKSLU-ZaCSLGJBmmUZRy-FAzlEuMBz61W2b7A&W=1; PPLState=1; _U=1CWvjSanDBDwmKmYXgGsVpbYqgvVeYHMiP5-VCclpSeJxWMazB74p3YA1yvjfXX8s8y_d7v7QVeZ1c5QBuSdvevnFzOOZeVutmtht167d7W5qq3T2Je6ZgQP36G0xXj1f49RXXuzE_lR-cQqI8IwjuQunW7jvR-0JD6BARVctYlaZWI8NZPIaXCwcxIDs9JF8nM7bWII6dUGPCLZL_0kZoA; WLS=TS=63857023271&C=f0f4cc6daebd97be&N=Anowar; GI_FRE_COOKIE=gi_prompt=2&gi_fre=1; _clsk=9azlau%7C1721426545830%7C2%7C0%7Cy.clarity.ms%2Fcollect; SRCHHPGUSR=SRCHLANG=en&DM=1&CW=521&CH=1032&SCW=521&SCH=1032&BRW=MW&BRH=MT&DPR=2.1&UTC=330&HV=1721426544&PV=11.0.0&PRVCW=521&PRVCH=985
+
+DELETE_TYPE = pm
+
+GEMINI_API_KEY = AIzaSyBzo5z_Uo4vQX5-hM-UDtRhUmiQqfH5ukc
+
+LIST_TYPE = text
+
+MAX_UPLOAD = 230
+
+PERSONAL_MESSAGE = https://telegra.ph/file/8af9f5e4df36b94345b79.mp4 ░▒▓█ • ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ᴅᴀɴɢᴇʀ ᴢᴏɴᴇ • █▓▒░
+
+PREFIX = null
+
+RMBG_KEY = q7abQvP3waTzbbXqRVLpxqpK
+
+STATUS_VIEW_MSG = Seen your status in just now 😍
+
+STICKER_PACKNAME = +918293838182,𝑳𝒖𝒄𝒊𝒁𝑹⚠︎
+
+SUDO = 918293838182,916296851422
+
+WARN_LIMIT = 2
+
+MENTION = { "contextInfo": { "forwardingScore": 5, "isForwarded": false }, "linkPreview": { "head": "ᴏ ᴅᴇᴀʀ ʏᴏᴜ'ʀᴇ ᴍɪss ᴍᴇ 🤨", "body": "𝑃𝑜𝑤𝑒𝑟𝑒𝑑 𝑏𝑦 𝐋𝐮𝐜𝐢𝐙𝐑 ⚠︎", "mediaType": 2, "thumbnail": "https://telegra.ph/file/5723fc7238589ffb8ac65.jpg", "sourceUrl": "https://www.instagram.com/zrluci" } , "waveform": [ 20,5,0,80,80,30,20,50 ] }
+
+TIMEZONE = Asia/Kolkata
